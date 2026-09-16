@@ -18,6 +18,9 @@ It's a Plug-n-play device so you can just plug it in your PC or laptop and just 
 <img width="1492" height="785" alt="image" src="https://github.com/user-attachments/assets/ccd8fc03-bd57-4349-8ffc-0834a391be7f" />
 <img width="1171" height="763" alt="image" src="https://github.com/user-attachments/assets/41dded30-6eaa-4215-937b-e297f5d87a7c" />
 <img width="1413" height="664" alt="image" src="https://github.com/user-attachments/assets/cd63cf08-dde1-4699-bf8a-ce1f76a68cee" />
+<img width="990" height="786" alt="Screenshot 2026-09-16 085448" src="https://github.com/user-attachments/assets/9ec78759-2cca-4830-8b27-4e13b6981d38" />
+<img width="919" height="673" alt="Screenshot 2026-09-16 085501" src="https://github.com/user-attachments/assets/18bec44c-c800-4edb-b21f-8a1a4e29a309" />
+
 
 ## Bill of Materials (BOM)
 
