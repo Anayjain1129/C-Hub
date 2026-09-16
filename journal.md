@@ -20,4 +20,6 @@ so i woke up at 5 am and i just started working and then i thought i should made
 <img width="919" height="673" alt="Screenshot 2026-09-16 085501" src="https://github.com/user-attachments/assets/980e4f63-77eb-4e99-90cb-29a2b12f9e55" />
 <img width="1919" height="1099" alt="Screenshot 2026-09-16 085718" src="https://github.com/user-attachments/assets/fb6af178-fb3f-44fd-844e-5690ce111ef4" />
 
+Lapse Link: https://lapse.hackclub.com/timelapse/WkOG3jfMcf-b
+
 **Total time spent: 4 hour  mins**
